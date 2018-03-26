@@ -100,10 +100,10 @@ import de.schildbach.wallet.offline.SendBluetoothTask;
 import de.schildbach.wallet.ui.InputParser.StringInputParser;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_bery.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public final class SendCoinsFragment extends SherlockFragment
 {
@@ -497,7 +497,7 @@ public final class SendCoinsFragment extends SherlockFragment
 			final String scheme = intentUri != null ? intentUri.getScheme() : null;
 
 			if ((Intent.ACTION_VIEW.equals(action) || NfcAdapter.ACTION_NDEF_DISCOVERED.equals(action)) && intentUri != null
-					&& "litecoin".equals(scheme))
+					&& "berycoin".equals(scheme))
 				initStateFromBitcoinUri(intentUri);
 			else if (intent.hasExtra(SendCoinsActivity.INTENT_EXTRA_ADDRESS))
 				initStateFromIntentExtras(intent.getExtras());
@@ -674,7 +674,7 @@ public final class SendCoinsFragment extends SherlockFragment
             }
 
             if(input == null) return;
-            Log.d("Litecoin", "SCAN RESULT:" + input);
+            Log.d("Berycoin", "SCAN RESULT:" + input);
 
             new StringInputParser(input)
             {
@@ -986,7 +986,7 @@ public final class SendCoinsFragment extends SherlockFragment
             }
             // We have enough money to complete the transaction
             // Now that the transaction is complete, adjust the outputs so change goes to fee
-            // if < 0.001 LTC.  Otherwise, we would need to add a penalty for the output that is
+            // if < 0.001 BERY.  Otherwise, we would need to add a penalty for the output that is
             // larger than the output itself, so it costs LESS to just throw it into the fee.
             for(TransactionOutput o: baseSendRequest.tx.getOutputs()) {
                 if(o.isMine(wallet) &&
@@ -1208,7 +1208,7 @@ public final class SendCoinsFragment extends SherlockFragment
 			    cursor = activity.managedQuery(AddressBookProvider.contentUri(activity.getPackageName()),
                     null, AddressBookProvider.SELECTION_QUERY, new String[] { constraint.toString() }, null);
             } catch(NullPointerException e) {
-                Log.i("wallet_ltc", "NULL Pointer exception when doing address book completion");
+                Log.i("wallet_bery", "NULL Pointer exception when doing address book completion");
                 return null;
             }
 			return cursor;

@@ -1,21 +1,21 @@
-Litecoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Litecoin Wallet je prvá mobilná Litecoin aplikácia a preukázateľne aj najbezpečnejšia.
+Berycoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Berycoin Wallet je prvá mobilná Berycoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Litecoinov v LTC alebo mLTC.
-• Prepočet hodnoty Litecoinov do viacerých cudzích mien.
-• Posielanie a prijímanie Litecoinov pomocou NFC, QR kódov alebo Litecoin adries.
-• Adresár pre často používané Litecoin adresy.
+• Zobrazenie zostatku Berycoinov v BERY alebo mBERY.
+• Prepočet hodnoty Berycoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Berycoinov pomocou NFC, QR kódov alebo Berycoin adries.
+• Adresár pre často používané Berycoin adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Litecoinov.
+• Notifikácie v stavovej lište pri prijatí Berycoinov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Litecoine
-http://litecoin.org
+Viac informácií o Berycoine
+http://berycoin.org
 
-Ak chcete prispieť do projektu Litecoin Wallet nájdete ho na adrese
-https://github.com/Litecoin-Java/litecoin-wallet
+Ak chcete prispieť do projektu Berycoin Wallet nájdete ho na adrese
+https://github.com/Berycoin-Java/berycoin-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

@@ -24,10 +24,10 @@ import javax.annotation.CheckForNull;
 import com.google.bitcoin.core.Peer;
 import com.google.bitcoin.core.StoredBlock;
 
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_bery.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public interface BlockchainService
 {

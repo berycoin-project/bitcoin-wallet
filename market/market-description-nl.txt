@@ -1,19 +1,19 @@
-Dit is een standalone Litecoin Wallet voor uw Android apparaat. U kan direct Litecoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Berycoin Wallet voor uw Android apparaat. U kan direct Berycoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Litecoin en verschillende andere valuta.
-• Verzenden en ontvangen van Litecoin via NFC, QR-codes of Litecoin URLs.
-• Adresboek voor veelgebruikte Litecoin adressen.
+• Weergeven van het wallet saldo in Berycoin en verschillende andere valuta.
+• Verzenden en ontvangen van Berycoin via NFC, QR-codes of Berycoin URLs.
+• Adresboek voor veelgebruikte Berycoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Litecoin connectiviteit en ontvangen litecoins.
-• Widget voor Litecoin saldo.
+• Systeem melding over Berycoin connectiviteit en ontvangen berycoins.
+• Widget voor Berycoin saldo.
 
-Voor meer informatie over Litecoin kunt u terecht op
-http://litecoin.org
+Voor meer informatie over Berycoin kunt u terecht op
+http://berycoin.org
 
-Als u een bijdrage wil leveren aan Litecoin Wallet, het project is te vinden op 
-https://github.com/Litecoin-Java/litecoin-wallet
+Als u een bijdrage wil leveren aan Berycoin Wallet, het project is te vinden op 
+https://github.com/Berycoin-Java/berycoin-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

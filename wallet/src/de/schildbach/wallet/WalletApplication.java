@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 import javax.annotation.Nonnull;
 
 import org.bitcoinj.wallet.Protos;
-import org.litecoin.LitecoinWallet;
+import org.berycoin.BerycoinWallet;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -79,10 +79,10 @@ import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.Io;
 import de.schildbach.wallet.util.LinuxSecureRandom;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_bery.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public class WalletApplication extends Application
 {
@@ -288,7 +288,7 @@ public class WalletApplication extends Application
                     NetworkParameters params = NetworkParameters.fromID(paramsID);
                     if (params == null)
                         throw new UnreadableWalletException("Unknown network parameters ID " + paramsID);
-                    wallet = new LitecoinWallet(params);
+                    wallet = new BerycoinWallet(params);
                     ser.readWallet(walletProto, wallet);
                 } catch (IOException e) {
                     throw new UnreadableWalletException("Could not parse input stream to protobuf", e);
@@ -339,7 +339,7 @@ public class WalletApplication extends Application
 		}
 		else
 		{
-			wallet = new LitecoinWallet(Constants.NETWORK_PARAMETERS);
+			wallet = new BerycoinWallet(Constants.NETWORK_PARAMETERS);
 
 			log.info("new wallet created");
 		}
@@ -376,7 +376,7 @@ public class WalletApplication extends Application
 		final List<ECKey> keys = WalletUtils.readKeys(in);
 		in.close();
 
-		final Wallet wallet = new LitecoinWallet(Constants.NETWORK_PARAMETERS);
+		final Wallet wallet = new BerycoinWallet(Constants.NETWORK_PARAMETERS);
 		for (final ECKey key : keys)
 			wallet.addKey(key);
 

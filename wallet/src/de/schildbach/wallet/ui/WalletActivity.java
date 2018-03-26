@@ -90,10 +90,10 @@ import de.schildbach.wallet.util.Crypto;
 import de.schildbach.wallet.util.HttpGetThread;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_bery.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public final class WalletActivity extends AbstractOnDemandServiceActivity
 {
@@ -993,7 +993,7 @@ public final class WalletActivity extends AbstractOnDemandServiceActivity
 				getString(R.string.export_keys_dialog_mail_text) + "\n\n" + String.format(Constants.ANDROID_WEBMARKET_APP_URL, getPackageName()) + "\n\n"
 						+ Constants.SOURCE_URL + '\n');
         }
-		intent.setType("x-litecoin/private-keys");
+		intent.setType("x-berycoin/private-keys");
 		intent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(file));
 		startActivity(Intent.createChooser(intent, getString(R.string.export_keys_dialog_mail_intent_chooser)));
 

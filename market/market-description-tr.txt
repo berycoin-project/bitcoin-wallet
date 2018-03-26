@@ -1,21 +1,21 @@
-Litecoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Litecoin cüzdanı ilk mobil Litecoin uygulamasıdır ve muhtemelen en güvenli Litecoin uygulamasıdır!
+Berycoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Berycoin cüzdanı ilk mobil Berycoin uygulamasıdır ve muhtemelen en güvenli Berycoin uygulamasıdır!
 
 İŞLEVLERİ:
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Litecoin meblağlarının LTC ve mLTC olarak gösterilmesi.
+• Berycoin meblağlarının BERY ve mBERY olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
-• NFC, QR kodu veya Litecoin bağlantıları ile Litecoin gönderir ve alır.
-• Sık kullanılan Litecoin adresleri için adres defteri içerir.
+• NFC, QR kodu veya Berycoin bağlantıları ile Berycoin gönderir ve alır.
+• Sık kullanılan Berycoin adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan litecoin'ler için sistem bildirimleri.
-• Litecoin bakiyesini görüntüleyen widget.
+• Alınan berycoin'ler için sistem bildirimleri.
+• Berycoin bakiyesini görüntüleyen widget.
 
-Litecoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
-http://litecoin.org
+Berycoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
+http://berycoin.org
 
-Litecoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
-https://github.com/Litecoin-Java/litecoin-wallet
+Berycoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
+https://github.com/Berycoin-Java/berycoin-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

@@ -28,10 +28,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_bery.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public abstract class FileAdapter extends ArrayAdapter<File>
 {

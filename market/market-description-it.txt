@@ -1,21 +1,21 @@
-Porta i tuoi Litecoin sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Litecoin Wallet è la prima Litecoin app mobile, e probabilmente anche la più sicura!
+Porta i tuoi Berycoin sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Berycoin Wallet è la prima Berycoin app mobile, e probabilmente anche la più sicura!
 
 CARATTERISTICHE:
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Litecoin in LTC e mLTC.
+• Mostra l'ammontare di Berycoin in BERY e mBERY.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Litecoin tramite NFC, codici QR o URL Litecoin.
-• Rubrica degli indirizzi per usare indirizzi Litecoin regolarmente.
+• Invio e ricevimento di Berycoin tramite NFC, codici QR o URL Berycoin.
+• Rubrica degli indirizzi per usare indirizzi Berycoin regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
-• App Widget per il saldo Litecoin
+• App Widget per il saldo Berycoin
 
-Puoi trovare altri dettagli su Litecoin su
-http://litecoin.org
+Puoi trovare altri dettagli su Berycoin su
+http://berycoin.org
 
-Se vuoi contribuire a Litecoin Wallet, il progetto si trova su
-https://github.com/Litecoin-Java/litecoin-wallet
+Se vuoi contribuire a Berycoin Wallet, il progetto si trova su
+https://github.com/Berycoin-Java/berycoin-wallet
 
 Licenza: GPLv3
 Usalo a tuo rischio!

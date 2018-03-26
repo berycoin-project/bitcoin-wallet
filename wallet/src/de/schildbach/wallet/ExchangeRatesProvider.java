@@ -51,7 +51,7 @@ import android.provider.BaseColumns;
 import android.text.format.DateUtils;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public class ExchangeRatesProvider extends ContentProvider
 {
@@ -97,10 +97,10 @@ public class ExchangeRatesProvider extends ContentProvider
 	{
 		try
 		{
-            BTCE_URL = new URL("https://btc-e.com/api/2/ltc_usd/ticker");
-            BTCE_EURO_URL = new URL("https://btc-e.com/api/2/ltc_eur/ticker");
-            KRAKEN_URL = new URL("https://api.kraken.com/0/public/Ticker?pair=XLTCZUSD");
-            KRAKEN_EURO_URL = new URL("https://api.kraken.com/0/public/Ticker?pair=XLTCZEUR");
+            BTCE_URL = new URL("https://btc-e.com/api/2/bery_usd/ticker");
+            BTCE_EURO_URL = new URL("https://btc-e.com/api/2/bery_eur/ticker");
+            KRAKEN_URL = new URL("https://api.kraken.com/0/public/Ticker?pair=XBERYZUSD");
+            KRAKEN_EURO_URL = new URL("https://api.kraken.com/0/public/Ticker?pair=XBERYZEUR");
 		}
 		catch (final MalformedURLException x)
 		{

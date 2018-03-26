@@ -1,19 +1,19 @@
-Detta är en fristående Litecoin plånbok för Android. Du kan skicka Litecoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+Detta är en fristående Berycoin plånbok för Android. Du kan skicka Berycoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
 
 FUNKTIONER:
 
-• Visa plånbokens värde i Litecoins och andra valutor.
-• Skicka och ta emot Litecoins via NFC, QR-koder eller en Litecoin URL.
-• Adressbok för de Litecoin adresser man använder ofta.
+• Visa plånbokens värde i Berycoins och andra valutor.
+• Skicka och ta emot Berycoins via NFC, QR-koder eller en Berycoin URL.
+• Adressbok för de Berycoin adresser man använder ofta.
 • Påbörja transaktioner medan du är offline, de utförs när du kommer online.
-• Systemnotifikationer när Litecoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• Systemnotifikationer när Berycoins skickats till dig, och när plånboken kommunicerar med nätverket.
 • App widget som visar plånbokens värde.
 
-Du kan lära dig mer om Litecoin genom att besöka
-http://litecoin.org
+Du kan lära dig mer om Berycoin genom att besöka
+http://berycoin.org
 
-Om du vill hjälpa till med utvecklingen av Litecoin Wallet så kan du hitta projektet här
-https://github.com/Litecoin-Java/litecoin-wallet
+Om du vill hjälpa till med utvecklingen av Berycoin Wallet så kan du hitta projektet här
+https://github.com/Berycoin-Java/berycoin-wallet
 
 Licens: GPLv3
 Använd på egen risk!

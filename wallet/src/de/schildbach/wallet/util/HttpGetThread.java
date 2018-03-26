@@ -37,7 +37,7 @@ import android.content.res.AssetManager;
 import de.schildbach.wallet.Constants;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public abstract class HttpGetThread extends Thread
 {
@@ -66,7 +66,7 @@ public abstract class HttpGetThread extends Thread
 
 			if (connection instanceof HttpsURLConnection)
 			{
-				final InputStream keystoreInputStream = assets.open("ssl-keystore-litecoin");
+				final InputStream keystoreInputStream = assets.open("ssl-keystore-berycoin");
 
 				final KeyStore keystore = KeyStore.getInstance("BKS");
 				keystore.load(keystoreInputStream, "password".toCharArray());

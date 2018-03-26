@@ -26,7 +26,7 @@ import android.graphics.drawable.Drawable;
 import de.schildbach.wallet.Constants;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach, Berycoin Dev Team
  */
 public final class CurrencySymbolDrawable extends Drawable
 {
