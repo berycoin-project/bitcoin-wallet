@@ -3,7 +3,7 @@ Tenha os seus Berycoins sempre com você, no seu bolso! Efetue pagamentos rapida
 CARACTERÍSTICAS:
 
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
-• Exibe a quantidade de Berycoins em BERY e mBERY.
+• Exibe a quantidade de Berycoins em BERY e BeryFlowers.
 • Conversão para moedas nacionais.
 • Envio e recebimento de Berycoins via NFC, códigos QR ou endereços Berycoin.
 • Catálogo para guardar os endereços mais utilizados.

@@ -3,7 +3,7 @@ Porta i tuoi Berycoin sempre con te, in tasca! Paghi velocemente scansionando un
 CARATTERISTICHE:
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Berycoin in BERY e mBERY.
+• Mostra l'ammontare di Berycoin in BERY e BeryFlowers.
 • Conversione verso e dalle monete nazionali.
 • Invio e ricevimento di Berycoin tramite NFC, codici QR o URL Berycoin.
 • Rubrica degli indirizzi per usare indirizzi Berycoin regolarmente.

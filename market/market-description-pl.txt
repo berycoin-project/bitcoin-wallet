@@ -3,7 +3,7 @@ Miej swoje Berycoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w BERY i mBERY.
+• Wyświetl ilość kwotę w BERY i BeryFlowers.
 • Zamiana z i na waluty narodowe
 • Wysyłąnie i odbieranie Berycoin za pomocą NFC, kodów QR czy adresów Berycoin URL.
 • Książka adresowa dla regularnie używanych adresów Berycoin.

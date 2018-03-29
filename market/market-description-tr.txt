@@ -3,7 +3,7 @@ Berycoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak 
 İŞLEVLERİ:
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Berycoin meblağlarının BERY ve mBERY olarak gösterilmesi.
+• Berycoin meblağlarının BERY ve BeryFlowers olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
 • NFC, QR kodu veya Berycoin bağlantıları ile Berycoin gönderir ve alır.
 • Sık kullanılan Berycoin adresleri için adres defteri içerir.

@@ -3,7 +3,7 @@ Berycoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Berycoinov v BERY alebo mBERY.
+• Zobrazenie zostatku Berycoinov v BERY alebo BeryFlowers.
 • Prepočet hodnoty Berycoinov do viacerých cudzích mien.
 • Posielanie a prijímanie Berycoinov pomocou NFC, QR kódov alebo Berycoin adries.
 • Adresár pre často používané Berycoin adresy.

@@ -3,7 +3,7 @@ Have your Berycoins always with you, in your pocket! You pay by quickly scanning
 FEATURES:
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of Berycoin amount in BERY and mBERY.
+• Display of Berycoin amount in BERY and BeryFlowers.
 • Conversion to and from national currencies.
 • Sending and receiving of Berycoin via NFC, QR-codes or Berycoin URLs.
 • Address book for regularly used Berycoin addresses.

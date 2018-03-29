@@ -3,7 +3,7 @@ Ten tus Berycoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando 
 CARACTERÍSTICAS:
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
-• Muestra la cantidad de Berycoins en BERY y mBERY
+• Muestra la cantidad de Berycoins en BERY y BeryFlowers
 • Conversión a divisas nacionales.
 • Envío y recepción de berycoins vía NFC, códigos QR o URL de Berycoin.
 • Libreta de direcciones para guardar las direcciones Berycoin más utilizadas.

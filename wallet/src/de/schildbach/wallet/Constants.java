@@ -55,8 +55,8 @@ public class Constants
 
 	public static final String CHECKPOINTS_FILENAME = "checkpoints" + FILENAME_NETWORK_SUFFIX;
 
-    private static final String EXPLORE_BASE_URL_PROD = "http://bery.block-explorer.com/";
-    private static final String EXPLORE2_BASE_URL_PROD = "http://explorer.berycoin.net/";
+    private static final String EXPLORE_BASE_URL_PROD = "https://explorer.berycoin.com/";
+    private static final String EXPLORE2_BASE_URL_PROD = "https://beryexplorer.berycoin.com/";
     public static final String EXPLORE_BASE_URL = EXPLORE_BASE_URL_PROD;
     public static final String EXPLORE2_BASE_URL = EXPLORE2_BASE_URL_PROD;
 
@@ -70,7 +70,7 @@ public class Constants
 	public static final long BLOCKCHAIN_UPTODATE_THRESHOLD_MS = DateUtils.HOUR_IN_MILLIS;
 
 	public static final String CURRENCY_CODE_BTC = "BERY";
-	public static final String CURRENCY_CODE_MBTC = "mBERY";
+	public static final String CURRENCY_CODE_MBTC = "BeryFlowers";
 	public static final char CHAR_HAIR_SPACE = '\u200a';
 	public static final char CHAR_THIN_SPACE = '\u2009';
 	public static final char CHAR_ALMOST_EQUAL_TO = '\u2248';
@@ -95,9 +95,9 @@ public class Constants
 
     //TODO: Lots of these
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
-	public static final String SOURCE_URL = "https://github.com/Berycoin-Java/bitcoin-wallet";
-	public static final String BINARY_URL = "https://github.com/Berycoin-Java/bitcoin-wallet/releases";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/Berycoin-Java/bitcoinj";
+	public static final String SOURCE_URL = "https://github.com/Berycoin-Project/bitcoin-wallet";
+	public static final String BINARY_URL = "https://github.com/Berycoin-Project/bitcoin-wallet/releases";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/Berycoin-Project/bitcoinj";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/BerycoinProject";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "https://plus.google.com/+BerycoinOrg";

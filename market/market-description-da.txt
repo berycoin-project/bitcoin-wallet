@@ -3,7 +3,7 @@ Hav altid dine Berycoins med dig i din lomme! Du betaler ved hurtigt at scanne e
 FUNKTIONER:
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af Berycoin-beløb i BERY og mBERY.
+• Visning af Berycoin-beløb i BERY og BeryFlowers.
 • Konvertering til og fra lokale valutaer.
 • Afsendelse og modtagelse af Berycoin via NFC, QR-koder eller Berycoin-URLer.
 • Adressebog til ofte brugte Berycoin-adresser.
